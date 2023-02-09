@@ -6,7 +6,7 @@ Organizing your cloud infrastructure can be a challenging task, especially when 
 
 # Directory  Structure 
 
-To add other directoories for other resources, check the docs [here](https://learn.microsoft.com/en-us/azure/templates/) and see how they structure it and just replicate. 
+To add other directories for other resources, check the docs [here](https://learn.microsoft.com/en-us/azure/templates/) and see how they structure it and just replicate. 
 
 
 ```
